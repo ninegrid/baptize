@@ -1,0 +1,29 @@
+{
+  "name": "baptize",
+  "version": "0.1.0",
+  "description": "turn an es6 generator (function or object) into a readstream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ninegrid/baptize"
+  },
+  "keywords": [
+    "stream",
+    "es6",
+    "harmony",
+    "generators"
+  ],
+  "author": "Daniel Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninegrid/baptize/issues"
+  },
+  "homepage": "https://github.com/ninegrid/baptize",
+  "dependencies": {
+    "is-genfn": "^0.1.0",
+    "is-genobj": "^0.1.0"
+  }
+}
